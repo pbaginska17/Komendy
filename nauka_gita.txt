@@ -24,3 +24,6 @@ jak dasz git add <filename> i po tym zmodyfikujesz plik to zostanie dodana wersj
 dlatego trzeba jeszcze raz dac git add <filename>
 git diff - aby zobaczyc co dokladnie zostalo zmienione
 git diff --staged - jesli chcesz zobaczyc co bedzie umieszczone w repozytorium
+
+usuniecie pliku z gita:
+rm nazwapliku
