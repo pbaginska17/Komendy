@@ -16,4 +16,5 @@ git push
 
 pobranie na nowego kompa: 
 pobrac ze strony github.com adres url i w command line zrobic: git clone +ten adres url
-w git gui utworzyc nowe repozytorium z tego folderu ktory zostal pobrany i powinno dzialac!
+w git gui utworzyc nowe repozytorium z tego folderu ktory zostal pobrany i powinno dzialac!//chyba nie trzeba, wystarczy pobrac 
+za pomoca git clone na kompa
