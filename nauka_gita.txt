@@ -1,0 +1,7 @@
+podstawowe komendy do gita:
+dodanie projektu do gita - git add.
+git commit -m "komentarz" - commity
+pobranie projektu na innego kompa - 
+
+ git push --set-upstream https://github.com/pbaginska17/App1 master - dodanie projektu do repozytorium na github.com                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+git clone https://github.com/pbaginska17/App1
