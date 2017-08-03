@@ -33,6 +33,7 @@ dodanie nowej rzeczy z dwoch kompow:
 zroic push, pull na drugim kompie, push na drugim, 
 pull na pierwszym i jak nie ma tego co powinno byc zrobic status i w razie potrzeby jeszcze raz push
 
+<<<<<<< HEAD
 
 stworzenie nowej galezi - branch i jednoczesne przelaczenie na nia:
 git checkout -b <nazwasciezki>
@@ -40,3 +41,6 @@ git checkout -b <nazwasciezki>
 lub po kolei:
 git branch<nazwasciezki>
 git checkout <nazwasciezki>
+=======
+cos tam sobie dopisuje
+>>>>>>> 2df346575141a86a1f8ec36f34b7ab96f289edc6
