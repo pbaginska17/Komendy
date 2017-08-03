@@ -34,4 +34,8 @@ Dodalam cos z legiona
 Dodalam cos z thinkpada
 >>>>>>> 9504d32812f66185fffbdf54fed04cbbc16a1c04
 
+<<<<<<< HEAD
 jeszcze raz dodalam cos z legiona
+=======
+jeszcze raz dodalam cos w thinkpada
+>>>>>>> 05ff740c2cec183c49a8beab7226794ec4c83250
