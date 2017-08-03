@@ -32,47 +32,4 @@ dodanie nowej rzeczy z dwoch kompow:
 zroic push, pull na drugim kompie, push na drugim, 
 pull na pierwszym i jak nie ma tego co powinno byc zrobic status i w razie potrzeby jeszcze raz push
 
-<<<<<<< HEAD
-Dodalam cos z legiona
-=======
-Dodalam cos z thinkpada
->>>>>>> 9504d32812f66185fffbdf54fed04cbbc16a1c04
 
-<<<<<<< HEAD
-jeszcze raz dodalam cos w thinkpada
-
-poraz 3 dodaje cos z thinkpada
-=======
-<<<<<<< HEAD
-jeszcze raz dodalam cos z legiona
-=======
-jeszcze raz dodalam cos w thinkpada
->>>>>>> 05ff740c2cec183c49a8beab7226794ec4c83250
-
-
-poraz 3 dodaje cos z legiona
-<<<<<<< HEAD
-
-poraz 4 dodaje cos z legiona
-=======
->>>>>>> cdc48ef565e7b5601bc815d64aa3abe98844eb03
-
-poraz 4 dodaje cos z thinkpada
-<<<<<<< HEAD
->>>>>>> 018bd6571b80b37fb68bd53bd3fb22c083862599
-
-
-pushowanie razem z legiona
-=======
-
-
-pushowanie razem z thinkpada
->>>>>>> ac8cb7c172f4d9b94adaf4b652b11c3d5b23f263
-
-
-<<<<<<< HEAD
-ostatnie z legiona
-
-=======
-ostatnie z thinkpada
->>>>>>> b986a9eb9f7437f195bea2225fcfc143b07ffd51
