@@ -44,3 +44,6 @@ git checkout <nazwasciezki>
 
 scalenie otwartej galezi z inna:
 git merge >nazwa_galezi>
+
+zmiana nazwy pliku:
+git mv file_from file_to
