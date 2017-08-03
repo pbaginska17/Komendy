@@ -64,3 +64,7 @@ pushowanie razem z legiona
 
 pushowanie razem z thinkpada
 >>>>>>> ac8cb7c172f4d9b94adaf4b652b11c3d5b23f263
+
+
+ostatnie z legiona
+
