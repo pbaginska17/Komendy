@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 dodalam cow w branchu sciezkathinkpad
 
 dodalam cos po raz kolejny w sciezce thinkpad
+=======
+<<<<<<< HEAD
+dodalam cow w branchu sciezkathinkpad
+
+tutaj tez sobie cos sodaje ze sciezki master
+=======
+cos sobie dodaje tu w sciezce legion
+>>>>>>> siezkalegion
+>>>>>>> 1e7393d094d9c445d656d543d0f8560dedfee01c
