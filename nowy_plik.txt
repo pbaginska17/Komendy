@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dodalam cow w branchu sciezkathinkpad
 
 dodalam cos po raz kolejny w sciezce thinkpad
@@ -13,3 +14,8 @@ cos sobie dodaje tu w sciezce legion
 >>>>>>> 1e7393d094d9c445d656d543d0f8560dedfee01c
 
 
+=======
+dodalam cow w branchu sciezkathinkpad
+
+14:34 teraz cos dodaje z thinkpada
+>>>>>>> sciezkathinkpad
