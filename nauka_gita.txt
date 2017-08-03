@@ -50,3 +50,6 @@ poraz 3 dodaje cos z legiona
 >>>>>>> cdc48ef565e7b5601bc815d64aa3abe98844eb03
 
 poraz 4 dodaje cos z thinkpada
+
+
+pushowanie razem z thinkpada
