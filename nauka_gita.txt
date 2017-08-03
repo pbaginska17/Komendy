@@ -27,3 +27,5 @@ git diff --staged - jesli chcesz zobaczyc co bedzie umieszczone w repozytorium
 
 usuniecie pliku z gita:
 rm nazwapliku
+
+Dodalam cos z thinkpada
