@@ -47,3 +47,12 @@ git merge >nazwa_galezi>
 
 zmiana nazwy pliku:
 git mv file_from file_to
+
+wyswitlenie galezi:
+git branch
+
+wyswitlenie ostatnich zmian na galeziach:
+git branch -v
+
+usuniecie sciezki/galezi (nie mozna usuwac danej sciezki jak sie na niej jest)
+git branch -d <branch_name>
