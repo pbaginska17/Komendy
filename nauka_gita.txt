@@ -33,6 +33,7 @@ dodanie nowej rzeczy z dwoch kompow:
 zroic push, pull na drugim kompie, push na drugim, 
 pull na pierwszym i jak nie ma tego co powinno byc zrobic status i w razie potrzeby jeszcze raz push
 
+<<<<<<< HEAD
 
 
 stworzenie nowej galezi - branch i jednoczesne przelaczenie na nia:
@@ -56,3 +57,6 @@ git branch -v
 
 usuniecie sciezki/galezi (nie mozna usuwac danej sciezki jak sie na niej jest)
 git branch -d <branch_name>
+=======
+cos dodaje zeby sprawdzic z lagiona
+>>>>>>> siezkalegion
