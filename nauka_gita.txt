@@ -44,3 +44,6 @@ git checkout <nazwasciezki>
 =======
 cos tam sobie dopisuje
 >>>>>>> 2df346575141a86a1f8ec36f34b7ab96f289edc6
+
+
+cos dodaje zeby sprawdzic z tp
