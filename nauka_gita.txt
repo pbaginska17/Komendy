@@ -42,6 +42,7 @@ git checkout -b <nazwasciezki>
 lub po kolei:
 git branch<nazwasciezki>
 git checkout <nazwasciezki>
+<<<<<<< HEAD
 
 scalenie otwartej galezi z inna:
 git merge >nazwa_galezi>
@@ -58,5 +59,15 @@ git branch -v
 usuniecie sciezki/galezi (nie mozna usuwac danej sciezki jak sie na niej jest)
 git branch -d <branch_name>
 =======
+<<<<<<< HEAD
 cos dodaje zeby sprawdzic z lagiona
 >>>>>>> siezkalegion
+=======
+=======
+cos tam sobie dopisuje
+>>>>>>> 2df346575141a86a1f8ec36f34b7ab96f289edc6
+
+
+cos dodaje zeby sprawdzic z tp
+>>>>>>> sciezkathinkpad
+>>>>>>> 7fb086b93bf7a4c19b698bcbae8601feb740829d
